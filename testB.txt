@@ -1,2 +1,3 @@
 testB
 New features of test B
+my changes
